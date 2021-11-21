@@ -1,0 +1,1 @@
+alter table [User] add [Password] int 

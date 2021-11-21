@@ -1,0 +1,205 @@
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\projectTwo.exe
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\projectTwo.deps.json
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\projectTwo.runtimeconfig.json
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\projectTwo.runtimeconfig.dev.json
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\projectTwo.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\projectTwo.pdb
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Web.Http.Owin.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Owin.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Owin.Security.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Owin.Security.Jwt.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Owin.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\projectTwo.csprojAssemblyReference.cache
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\projectTwo.AssemblyInfoInputs.cache
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\projectTwo.AssemblyInfo.cs
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\projectTwo.csproj.CoreCompileInputs.cache
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\projectTwo.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\projectTwo.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\staticwebassets\projectTwo.StaticWebAssets.Manifest.cache
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\staticwebassets\projectTwo.StaticWebAssets.xml
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\scopedcss\bundle\projectTwo.styles.css
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\projectTwo.RazorTargetAssemblyInfo.cache
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\projectTwo.csproj.CopyComplete
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\projectTwo.dll
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\projectTwo.pdb
+C:\Projects\AgileDev\full-version\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\projectTwo.genruntimeconfig.cache
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\projectTwo.exe
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\projectTwo.deps.json
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\projectTwo.runtimeconfig.json
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\projectTwo.runtimeconfig.dev.json
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\projectTwo.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\projectTwo.pdb
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Web.Http.Owin.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Owin.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Owin.Security.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Owin.Security.Jwt.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Owin.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\projectTwo.csproj.AssemblyReference.cache
+C:\Projects\Project 2\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\projectTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Project 2\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\projectTwo.AssemblyInfoInputs.cache
+C:\Projects\Project 2\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\projectTwo.AssemblyInfo.cs
+C:\Projects\Project 2\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\projectTwo.csproj.CoreCompileInputs.cache
+C:\Projects\Project 2\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\projectTwo.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\Project 2\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\projectTwo.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Project 2\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\staticwebassets\projectTwo.StaticWebAssets.Manifest.cache
+C:\Projects\Project 2\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\staticwebassets\projectTwo.StaticWebAssets.xml
+C:\Projects\Project 2\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\scopedcss\bundle\projectTwo.styles.css
+C:\Projects\Project 2\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\projectTwo.RazorTargetAssemblyInfo.cache
+C:\Projects\Project 2\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\projectTwo.csproj.CopyComplete
+C:\Projects\Project 2\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\projectTwo.dll
+C:\Projects\Project 2\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\projectTwo.pdb
+C:\Projects\Project 2\AgileDev_API\projectTwo\obj\Debug\netcoreapp3.1\projectTwo.genruntimeconfig.cache
